@@ -66,3 +66,8 @@ fastlane/test_output
 # https://github.com/johnno1962/injectionforxcode
 
 iOSInjectionProject/
+*.v2
+*.vsidx
+*.lock
+.vs/DogConnect-be/v17/.suo
+*.1
