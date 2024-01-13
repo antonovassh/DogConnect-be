@@ -11,10 +11,4 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Models\Like\" />
-    <Folder Include="Models\Post\" />
-    <Folder Include="Models\User\" />
-  </ItemGroup>
-
 </Project>
